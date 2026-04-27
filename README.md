@@ -59,7 +59,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/lucas-f-cruzO">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
   </a>
@@ -73,7 +73,7 @@
   <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/lucasfelipe291021" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:lucasifrn2012@gmail.com">
